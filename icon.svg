@@ -1,0 +1,9 @@
+<!-- «00» — традиционная нумерация туалетной двери в гостиницах и поездах.
+     Кольца рифмуются с силуэтом сиденья на пинах карты (js/pins.js). -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="110" fill="#2563eb"/>
+  <g fill="none" stroke="#fff" stroke-width="36">
+    <ellipse cx="170" cy="256" rx="64" ry="96"/>
+    <ellipse cx="342" cy="256" rx="64" ry="96"/>
+  </g>
+</svg>
